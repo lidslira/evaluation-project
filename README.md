@@ -20,11 +20,18 @@ I chose to try not using a bunch of libraries, making it a simple as possible. H
 
 ## 🏃 Running the application
 
-### Clone the repository
+### Clone the repository 
 
+#### Server ⚙️
 ```
-git clone https://github.com/lidslira/evaluation-project.git
+git clone https://github.com/lidslira/evaluation-server.git
 ```
+
+#### Web  🖥️ 
+```
+git clone https://github.com/lidslira/evaluation-web.git
+```
+
 ### To run the web and server project
 
 ```
